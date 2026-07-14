@@ -1,0 +1,6 @@
+{
+  "name": "Медиа-Пульт DLNA",
+  "description": "Полноценный нативный DLNA-плеер для трансляции медиа и управления телевизором в локальной сети.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
